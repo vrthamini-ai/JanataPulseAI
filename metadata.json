@@ -1,0 +1,6 @@
+{
+  "name": "JanataPulse AI",
+  "description": "AI-powered constituency priority planning for Members of Parliament and citizens.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
