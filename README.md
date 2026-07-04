@@ -505,9 +505,8 @@ The current demo includes sample ward and issue data for prototype demonstration
 Add these before submitting:
 
 ```text
-Working URL: https://your-deployed-app-url.com
-GitHub Repo: https://github.com/your-username/JanataPulseAI
-Presentation PDF: uploaded on Hack2skill portal
+Working URL: https://janatapulse-ai-174129711862.asia-southeast1.run.app/
+GitHub Repo: https://github.com/VishnuKumarLH/JanataPulseAI
 ```
 
 ---
